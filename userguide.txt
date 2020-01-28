@@ -1,0 +1,11 @@
+1. open exe folder
+2. open sub exe folder
+3. double click "PBR.exe"
+
+the opengl program will launch a new window running the shader with 15 spheres and 1 texture
+
+you can move around with WASD
+look around with the mouse
+roll left and right with Q and E
+
+and press R to reset the position
